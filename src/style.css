@@ -1,3 +1,14 @@
-h1 {
-    color: orange;
+ 
+ footer {
+    font-family: cursive ;
+    border: 2px #fff solid;
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none;
+    color: chocolate;
 }
