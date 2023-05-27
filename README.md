@@ -64,7 +64,9 @@
 
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
- [Meals DB - Webapp built on external API](https://drive.google.com/file/d/1vlDjDVLs27xcjltXtZ4Ezgnu2wh9I1kZ/view?usp=sharing)
+## Link to Video
+ [Meals DB - Webapp built on external API](https://drive.google.com/file/d/1vlDjDVLs27xcjltXtZ4Ezgnu2wh9I1kZ/view?usp=sharing)<br>
+ [Go Live](https://enoisong.github.io/Module2-Capstone/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 clone from repository: https://github.com/Abdulwhbhussain/capstone-module-2.git
