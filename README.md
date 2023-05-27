@@ -1,30 +1,37 @@
-# Module2-Capstone 
+#  Capstone-module-2 
+# Meals DB - Webapp built on external API
 <a name="readme-top"></a>
  # 📗 Table of Contents
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack) 
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+- [Capstone-module-2](#capstone-module-2)
+- [Meals DB - Webapp built on external API](#meals-db---webapp-built-on-external-api)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Capstone-module-2 ](#-capstone-module-2-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Clone this repository](#clone-this-repository)
+    - [Run project](#run-project)
+      - [Open page in browser](#open-page-in-browser)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [To run the project, execute the following command:](#to-run-the-project-execute-the-following-command)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Author ](#-author-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
-# 📖Module2-Capstone <a name="about-project"></a> 
+# 📖 Capstone-module-2 <a name="about-project"></a> 
  
-**(Module-Capstone)** is a webapp built on external API. It uses the MEAL API that displays a list of food dishes. This application has 2 user interface:
+**( Capstone-module-2 )** is a webapp built on external API. It uses the MEAL API that displays a list of food dishes. This application has 2 user interface:
 - The home page that displays the meals and 
 - The comments popup where the user is able to like any of the dishes, read more about each recipe once he clicks on   the "comments" button and is able to leave a comment about any of food he likes.
  
@@ -43,8 +50,6 @@
 - Webpack
 - APIs
 - Jest 
-- Gitflow
-- Version Control (GitHub)
  
 <!-- Features -->
 ### Key Features <a name="key-features"></a>
@@ -52,25 +57,21 @@
 - **Display meals**
 - **Display counters**
 - **Comments popup**
-- **JavaScript, ES6**
-- **HTML5 semantics**
-- **Webpack**
-- **Jest (testing)**
-- **Gitflow**
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
- [Coming Soon](#)
+ [Meals DB - Webapp built on external API](https://drive.google.com/file/d/1vlDjDVLs27xcjltXtZ4Ezgnu2wh9I1kZ/view?usp=sharing)
 
 ## 💻 Getting Started <a name="getting-started"></a>
-clone from repository: https://github.com/Enoisong/Module2-Capstone.git
+clone from repository: https://github.com/Abdulwhbhussain/capstone-module-2.git
 
 ### Prerequisites
 In order to run this project you need to:
-- Install GIt
+- Install Git
 - Install Live server VScode extension and run Go Live
 - Install a Command Line Interface to clone project-Git bash/Terminal
 
@@ -78,9 +79,9 @@ In order to run this project you need to:
 ### Clone this repository  
 
 ```bash
-```bash
-$ git clone https://github.com/Enoisong/Module2-Capstone.git
-$ cd leader-board
+$ git clone https://github.com/Abdulwhbhussain/capstone-module-2.git
+$ cd capstone-module-2
+```
 
 ### Run project
 
@@ -92,7 +93,7 @@ $ npm start
 
 #### Open page in browser
 ```bash
-$ runs on http://localhost:8081/
+$ runs on http://localhost:8080/
 ```
 
 ### Install
@@ -110,30 +111,33 @@ Install this project with:
 
 ### Run tests
 
-To run linters tests, run the following command: 
-npx hint .
-npx stylelint "**/*.{css,scss}"
-npx eslint .
+```bash
+$ npm run test
+```
 
 ### Deployment
 
-It will be deployed after merge
+<a name="Deployment"></a>
+ [Meals DB - Webapp built on external API](https://abdulwhbhussain.github.io/capstone-module-2/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
-## 👥 Author <a name="author"></a> 
+## 👥 Author <a name="author"></a>
+- Abdul Wahab 
 - Enobong Isong
  
 👤 **Author1**
+- GitHub: [@githubhandle](https://github.com/Abdulwhbhussain)
+- Twitter: [@twitterhandle]( https://twitter.com/AbdulWhbHussain)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdulwhbhussain)
+
+👤 **Author2**
 - GitHub: [@githubhandle](https://github.com/Enoisong)
 - Twitter: [@twitterhandle](https://twitter.com/Enobongmisong)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/enobong-isong/)
 
-👤 **Author2**
-- GitHub: [@githubhandle](https://github.com/Abdulwhbhussain)
-- Twitter: [@twitterhandle]( https://twitter.com/AbdulWhbHussain)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdulwhbhussain)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -164,7 +168,7 @@ If you like this project, give us a ⭐️ star!
 -	Thanks to the Microverse team for the great curriculum.
 -	Thanks to the Code Reviewer(s) for the insightly feedbacks.
 -	A great thanks to my coding partner(s), morning session team, 
-  and  standup team for their contributions.
+  and standup team for their contributions.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
